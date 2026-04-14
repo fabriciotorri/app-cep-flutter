@@ -40,6 +40,8 @@ Capturas de Tela
 <img width="464" height="929" alt="image" src="https://github.com/user-attachments/assets/841a63d3-c1bb-49d3-b59a-9866469fc3a2" />
 <img width="465" height="944" alt="image" src="https://github.com/user-attachments/assets/3c095b3d-4435-4ec8-817e-5e5da6f742f7" />
 <img width="455" height="936" alt="image" src="https://github.com/user-attachments/assets/20d349ee-1ef1-4fab-b24b-a8ca7405e157" />
+<img width="452" height="938" alt="image" src="https://github.com/user-attachments/assets/b71c439c-6aee-49e8-9fbc-1b6f42f6d483" />
+
 
 
 
