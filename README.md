@@ -26,7 +26,13 @@ Tecnologias
 
 Capturas de Tela
 ![WhatsApp Image 2026-04-08 at 11 43 13](https://github.com/user-attachments/assets/1fccc73c-9401-4079-9f23-1cc3e05ae9c7)
-![WhatsApp Image 2026-04-08 at 11 42 32](https://github.com/user-attachments/assets/28e42f1e-78cf-43a2-a7c6-6d30ed76156e)
+<img width="1042" height="710" alt="image" src="https://github.com/user-attachments/assets/1d24fe10-f81e-4aa2-a395-3f653b15fc5f" />
+<img width="1364" height="719" alt="image" src="https://github.com/user-attachments/assets/4d170abb-d21c-4130-84c2-91f26417f2cc" />
+<img width="1366" height="723" alt="image" src="https://github.com/user-attachments/assets/15cd0aef-98c2-46f1-ab5a-eee6706678e4" />
+<img width="1362" height="723" alt="image" src="https://github.com/user-attachments/assets/412f82ef-2ab1-4041-8e47-a16411bc8cd8" />
+<img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/e7a8e163-c809-4971-bea5-a6389a39a581" />
+
+
 ![WhatsApp Image 2026-04-08 at 11 42 47](https://github.com/user-attachments/assets/e8e3c059-120b-4635-89b4-e5ef68b1dc0a)
 ![WhatsApp Image 2026-04-08 at 11 42 47](https://github.com/user-attachments/assets/e51aac30-51dc-42eb-8c0c-a1ad3c685216)
 <img width="301" height="611" alt="image" src="https://github.com/user-attachments/assets/37d2edad-4b53-4e15-b00b-94d0fb545ba7" />
